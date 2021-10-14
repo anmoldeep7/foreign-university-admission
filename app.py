@@ -14,7 +14,7 @@ import xgboost as xgb
 import pickle
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
-def main():
+def app():
     st.title("Graduate Program Admission Predictor")
     st.sidebar.title("Graduate Program Admission Predictor")
     st.markdown("ML Web App for University Admission Predcition for North American Universities")
@@ -238,4 +238,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    app()
