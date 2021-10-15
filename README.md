@@ -4,10 +4,10 @@
 Link: [https://unipredi.herokuapp.com/](https://unipredi.herokuapp.com/)
 
 ## Input
-[![](https://github.com/anmoldeep7/startupprofit/blob/main/Input.png)](https://unipredi.herokuapp.com/)
+[![](https://github.com/anmoldeep7/foreign-university-admission/blob/main/Input.png)](https://unipredi.herokuapp.com/)
 
 ## Output
-[![](https://github.com/anmoldeep7/startupprofit/blob/main/Output.png)](https://unipredi.herokuapp.com/)
+[![](https://github.com/anmoldeep7/foreign-university-admission/blob/main/Output.png)](https://unipredi.herokuapp.com/)
 
 ## Flowchart 
 <p align="center">
