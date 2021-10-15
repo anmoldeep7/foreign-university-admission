@@ -24,12 +24,9 @@ Link: [https://unipredi.herokuapp.com/](https://unipredi.herokuapp.com/)
 
 
 ## Novelty
-1) Applied feature engineering to drop unwanted features, handle missing values, handle categorical features, handle feature scaling, remove outliers, explore the Correlation between numerical features, find relation between features and labels. This led to reduced mean squared error of the algorithm without increasing the complexity of the model.
+1) Train different custom models on the website using various algorithms like XGBoost, Random Forest, SVR, Decision tree etc. Save them to use them as predictors. Choose among various plots like Correlation matrix, Histogram for detailed information about different factors affecting admit chances.
 
-2) Hyperparameter Tuning was performed. Grid search technique was used to select the best model among linear regression, lasso, and decision tree and subsequently the hyperparameters for the final model build which was used in the website.
+2) Used Streamlit instead of flask, django to create a clean UI and make the process much more cohesive and optimized. 
 
-# Features
-1. Various plots to get detailed information about different factors affecting admit chances.
-2. Train and load your own custom models using various algorithms on the go.
-3. Look at raw data. 
-4. Clean and Simple UX and UI :) 
+2) Applied feature engineering to drop unwanted features, handle missing values, handle categorical features, handle feature scaling, remove outliers, explore the Correlation between numerical features, find relation between features and labels. This led to reduced mean squared error of the algorithm without increasing the complexity of the model.
+
