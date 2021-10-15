@@ -11,7 +11,7 @@ Link: [https://unipredi.herokuapp.com/](https://unipredi.herokuapp.com/)
 
 ## Flowchart 
 <p align="center">
-  <img src="https://github.com/anmoldeep7/startupprofit/blob/main/Flowchart.png"/>
+  <img src="https://github.com/anmoldeep7/foreign-university-admission/flowchart.png"/>
 </p>
 
 ## Technologies Used
