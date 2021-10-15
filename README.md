@@ -18,7 +18,7 @@ Link: [https://unipredi.herokuapp.com/](https://unipredi.herokuapp.com/)
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width=170>](https://streamlit.io/) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
+[<img target="_blank" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png" width=170>](https://streamlit.io/) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
 
 
 ## Novelty
