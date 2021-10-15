@@ -8,5 +8,5 @@ scikit-learn
 xgboost
 seaborn
 streamlit
-gunicorn==20.0.4
+gunicorn==20.0.4 
 
