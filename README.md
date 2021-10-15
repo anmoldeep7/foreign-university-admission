@@ -8,6 +8,8 @@ Link: [https://unipredi.herokuapp.com/](https://unipredi.herokuapp.com/)
 
 ## Output
 [![](https://github.com/anmoldeep7/foreign-university-admission/blob/main/Output.png)](https://unipredi.herokuapp.com/)
+[![](https://github.com/anmoldeep7/foreign-university-admission/blob/main/Output2.png)](https://unipredi.herokuapp.com/)
+
 
 ## Flowchart 
 <p align="center">
