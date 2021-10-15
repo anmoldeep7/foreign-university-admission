@@ -15,11 +15,11 @@ import pickle
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 def app():
-    st.title("Graduate Program Admission Predictor")
-    st.sidebar.title("Graduate Program Admission Predictor")
-    st.markdown("ML Web App for University Admission Predcition for North American Universities")
-    st.markdown("Disclaimer: This web app doesn't give definite chance of admission. It should be used to get a general overview of a user's chance of getting an admit and where the user can improve their chances")
-    st.sidebar.markdown("ML Web App for University Admission Predcition for North American Universities")
+    st.title("Foreign University Admission Predictor")
+    #st.sidebar.title("Graduate Program Admission Predictor")
+    #st.markdown("ML Web App for University Admission Predcition for North American Universities")
+    #st.markdown("Disclaimer: This web app doesn't give definite chance of admission. It should be used to get a general overview of a user's chance of getting an admit and where the user can improve their chances")
+    #st.sidebar.markdown("ML Web App for University Admission Predcition for North American Universities")
     
     @st.cache(persist=True)
     def load_data():
@@ -58,7 +58,7 @@ def app():
     x_train, x_test, y_train, y_test = split(df)
 
     if st.sidebar.checkbox("Predictor",False):
-        st.subheader("Enter Data For Prediction")
+        st.subheader("Enter Data:")
         gre = st.number_input('GRE Score')
         toefl = st.number_input('TOEFL Score')
         rating = st.number_input('Target University Rating (0-5)')
